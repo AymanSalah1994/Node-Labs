@@ -1,0 +1,11 @@
+npm init -y
+    - Start Package Json File 
+
+npm install express --save 
+    - Save in Dependencies 
+npm install express --save-dev
+    - Just for dev,don't store for Depedencies 
+
+npm install express --production 
+
+
